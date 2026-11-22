@@ -7,11 +7,11 @@
 ### Caminhos pelo terminal.
 sudo su = modo root
 setoolkit = abrir o programa (apatir de agora navegaremos por numeros ex: 1 , 2 , 3...)
-1 = Social-Engineering Attack 
-2 = Website Attack Vector
-2 = Metasploit Browser Exploit Mathod
-1 = Web Tamplates (yes em todas opções)
-2 = google 
+- 1 = Social-Engineering Attack 
+- 2 = Website Attack Vector
+- 2 = Metasploit Browser Exploit Mathod
+- 1 = Web Tamplates (yes em todas opções)
+- 2 = google 
 
 ### obs:
 Tive que usar essa estratégia pois com o copie cole do http://www.facebook.com tava dando erro.
