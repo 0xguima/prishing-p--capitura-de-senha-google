@@ -5,8 +5,8 @@
 - msfconsole
 
 ### Caminhos pelo terminal.
-sudo su = modo root
-setoolkit = abrir o programa (apatir de agora navegaremos por numeros ex: 1 , 2 , 3...)
+- sudo su = modo root
+- setoolkit = abrir o programa (apatir de agora navegaremos por numeros ex: 1 , 2 , 3...)
 - 1 = Social-Engineering Attack 
 - 2 = Website Attack Vector
 - 2 = Metasploit Browser Exploit Mathod
